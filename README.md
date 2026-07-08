@@ -48,7 +48,7 @@ Aplikasi e-commerce berbasis Flutter ini dibuat sebagai Ujian Akhir Semester (UA
 ![Login/Register](assets/images/image.png)
 
 2. **Halaman Katalog Produk**
-![Katalog](link_screenshot_2)
+![Katalog](assets/images/katalog.png)
 
 3. **Halaman Detail Produk**
 ![Detail](link_screenshot_3)
