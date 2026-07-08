@@ -1,9 +1,9 @@
 # TB_Mobile - Praktikum Pemrograman Mobile 2025/2026
 
 ## Identitas
-- **Nama:** [Nama Anda]
-- **NIM:** [NIM Anda]
-- **Kelas:** [Kelas Anda]
+- **Nama:** [Firman Nurhakim]
+- **NIM:** [2306107]
+- **Kelas:** [Kelas A]
 
 ## Deskripsi
 Aplikasi e-commerce berbasis Flutter ini dibuat sebagai Ujian Akhir Semester (UAS) mata kuliah Praktikum Pemrograman Mobile. Aplikasi ini mengkonsumsi REST API yang telah disediakan dan mengimplementasikan fitur autentikasi, katalog produk, keranjang belanja, serta manajemen pesanan.
