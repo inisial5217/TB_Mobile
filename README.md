@@ -45,18 +45,23 @@ Aplikasi e-commerce berbasis Flutter ini dibuat sebagai Ujian Akhir Semester (UA
 ## Screenshot Aplikasi
 *(Tambahkan minimal 5 halaman screenshot aplikasi di bawah ini dengan mengganti URL gambar)*
 1. **Halaman Login & Register**
+
 ![Login/Register](assets/images/image.png)
 
 2. **Halaman Katalog Produk**
+
 ![Katalog](assets/images/katalog.png)
 
 3. **Halaman Detail Produk**
+
 ![Detail](assets/images/detail.png)
 
 4. **Halaman Keranjang**
+
 ![Keranjang](link_screenshot_4)
 
 5. **Halaman Checkout & Riwayat Pesanan**
+
 ![Riwayat](link_screenshot_5)
 
 ## Cara Menjalankan Aplikasi
